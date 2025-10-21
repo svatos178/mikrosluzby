@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Product Service" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="product-service" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.product.ProductServiceApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
+
