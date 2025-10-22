@@ -9,17 +9,6 @@ Tento tutorial vas provede vytvorenim a spustenim jednoducheho systemu mikrosluz
 *   Pochopit synchronni REST komunikaci mezi sluzbami
 *   Testovat mikrosluzby pomoci HTTP pozadavku
 
-**Casova narocnost:** 15-20 minut
-
-## Predpoklady
-
-Pred zacatkem si pripravte nasledujici nastroje:
-
-*   **Java 17 nebo novejsi** - [Stahnout Eclipse Temurin JDK 17](https://adoptium.net/temurin/releases/?version=17)
-*   **IntelliJ IDEA** (Community nebo Ultimate) - [Stahnout IntelliJ IDEA](https://www.jetbrains.com/idea/download/)
-
-Maven je jiz soucasti IntelliJ IDEA, takze neni potreba ho instalovat samostatne.
-
 ## Struktura Projektu
 
 Projekt obsahuje dva moduly reprezentujici mikrosluzby:
@@ -40,7 +29,7 @@ Po rozbaleni archivu postupujte nasledovne:
 
 1. Spustte **IntelliJ IDEA**
 2. Zvolte `File` → `Open...`
-3. Najdete a vyberte slozku `microservices-tutorial`
+3. Najdete a vyberte slozku `microsluzby-master`
 4. Kliknete `OK`
 
 IntelliJ automaticky rozpozna Maven projekt a nacte oba moduly. V dolni casti obrazovky uvidite prubeh indexovani a stahovani Maven zavislosti. Pockejte, az se tento proces dokonci.
