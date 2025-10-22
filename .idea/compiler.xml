@@ -21,6 +21,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="order-service (1)" options="-parameters" />
+      <module name="product-service (1)" options="-parameters" />
       <module name="product-service (2)" options="-parameters" />
     </option>
   </component>
